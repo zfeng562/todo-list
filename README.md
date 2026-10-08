@@ -1,5 +1,5 @@
 # TODO list
-A simple app to manag my daily tasks
+A simple app to manage my daily tasks
 Apply HTML5 and CSS3.
 
 ## Features
